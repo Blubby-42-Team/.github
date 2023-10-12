@@ -1,5 +1,5 @@
-# Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="60px"> We are [Fluffy_Kaiju](https://github.com/Matthew-Dreemurr), [willaCS](https://github.com/willaCS), [mkoyamba](https://github.com/mkoyamba) and [
-HHHati](https://github.com/HHHati)
+# Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="60px" height="60px">
+We are [Fluffy_Kaiju](https://github.com/Matthew-Dreemurr), [willaCS](https://github.com/willaCS), [mkoyamba](https://github.com/mkoyamba) and [HHHati](https://github.com/HHHati)
 
 Students at [19 school](https://campus19.be/) member of the [42Network](https://42.fr/en/network-42/).
 
